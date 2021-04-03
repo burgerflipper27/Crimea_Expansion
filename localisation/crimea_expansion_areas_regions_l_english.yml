@@ -2,4 +2,12 @@
  simferopol_area:0 "Simferopol"
  simferopol_area_name:0 "Simferopol"
  simferopol_area_adj:0 "Simferopolian"
- 
+ odessa_area:0 "Odessa"
+ odessa_area_name:0 "Odessa"
+ odessa_area_adj:0 "Odessian"
+ donetsk_area:0 "Donetsk"
+ donetsk_area_name:0 "Donetsk"
+ donetsk_area_adj:0 "Donetskan"
+ stavropol_area:0 "Stavropol"
+ stavropol_area_name:0 "Stavropol"
+ stavropol_area_adj:0 "Stavropolsk"

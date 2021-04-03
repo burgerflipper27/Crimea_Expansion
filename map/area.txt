@@ -752,14 +752,6 @@ sloboda_ukraine_area = { #4
 	291 298 299 2408
 }
 
-zaporizhia_area = { #3
-	283 2411 2412
-}
-
-azov_area = { #4
-	286 287 2413 2414
-}
-
 white_ruthenia_area = { #3
 	292 771 4246
 }
@@ -884,14 +876,32 @@ crimea_area = { #4
 	284 6001 6002
 }
 
-simferopol_area = { #3
+simferopol_area = { #4
 	285 2410 2447 6000
 }
 
-yedisan_area = { #3
-	282 1974 2406 6003 6004
+yedisan_area = { #5
+	1974 2406 6003 6004 6005
 }
-	
+
+zaporizhia_area = { #5
+	283 2411 2412 6008 6007
+}
+odessa_area = { #1
+	282 6006
+}
+
+azov_area = { #5
+	286 287 2413 2414 6009
+}
+
+circassia_area = { #5
+	463 2201 2195 2197 6010
+}
+stavropol_area = { #2
+	6011 6012
+}
+
 ######################
 
 ########################################
@@ -1165,10 +1175,6 @@ armenia_area = { #5
 shirvan_area = { #5 #Northern Azerbaijan
 	color = { 225 231 53 }
 	421 4299 4305 4340
-}
-
-circassia_area = { #4
-	463 2201 2195 2197
 }
 
 dagestan_area = { #5

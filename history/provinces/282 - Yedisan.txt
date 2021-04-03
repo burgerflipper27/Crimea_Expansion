@@ -1,4 +1,4 @@
-#282 - Yedisan
+#282 - Podilsk
 
 owner = CRI
 controller = CRI

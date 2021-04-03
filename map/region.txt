@@ -263,6 +263,9 @@ crimea_region = {
 		yedisan_area
 		azov_area
 		simferopol_area
+		odessa_area
+		mariupol_area
+		stavropol_area
 	}
 }
 
