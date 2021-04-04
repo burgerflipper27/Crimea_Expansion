@@ -810,14 +810,6 @@ beloozero_area = { #3
 	312 4259 4261
 }
 
-astrakhan_area = { #5
-	464 466 468 2416 2417
-}
-
-lower_don_area = { #4
-	288 467 1971 2409
-}
-
 kazan_area = { #3
 	1082 2422 4264
 }
@@ -898,9 +890,17 @@ azov_area = { #5
 circassia_area = { #5
 	463 2201 2195 2197 6010
 }
-stavropol_area = { #2
-	6011 6012
+stavropol_area = { #5
+	6011 6012 2417 6013 2416 
 }
+astrakhan_area = { #5
+	464 466 468 6014 6015
+}
+
+lower_don_area = { #5
+	288 467 1971 2409 6016
+}
+
 
 ######################
 
